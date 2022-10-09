@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 753 julien 2023-09-20 14:25 hello
+chmod 753 hello
